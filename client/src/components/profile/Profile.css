@@ -1,0 +1,8 @@
+.div2{
+  border: 4px solid #0073FF;
+  border-style: double;
+  width: 410px;
+  height: 370px;
+  text-align: left;
+  display: block;
+}
